@@ -15,7 +15,7 @@ document.getElementById("demo").innerHTML = `<h1>Kashyap surani </h1>
     </li>
     <p>A personal portfolio website showcasing my skills and projects.</p>
     <li>
-        <h4>2. Task Management App</h4>
+        <h4>Task Management App</h4>
     </li>
     <p>An interactive web app for managing tasks and to-do lists.</p>
 </ol>
